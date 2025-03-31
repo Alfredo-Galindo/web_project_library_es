@@ -33,8 +33,9 @@
   display: flex;
   justify-content: space-around;
   column-gap: 20px;
-  list-style: none;
+  list-style-type: none;
   padding: 0%;
+  padding-left: 0px;
 }
 
 .nav__link {
@@ -158,4 +159,6 @@
 
 .staff {
   background-image: url("../images/staff_picks_background.jpg");
+  padding: 100px, 0px, 140px;
+  background-size: cover;
 }
