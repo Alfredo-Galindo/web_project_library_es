@@ -392,6 +392,7 @@
   font-size: 14px;
   display: flex;
   align-items: center;
+  column-gap: 10px;
 }
 
 .footer__social-icon {
